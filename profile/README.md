@@ -7,5 +7,5 @@
 # Team Members:
 
 * YoPhlox - Founder and main Moon4K developer!
-
-* Dooduds - Moon4k developer :D (go support his game [Sammich (Sandwich) Saga](https://dooduds.itch.io/sandwichsaga))
+* Hoshino2Git - Helper (legit got the in-game dl working properly)
+* Dooduds - helper (go support his game [Sammich (Sandwich) Saga](https://dooduds.itch.io/sandwichsaga))
